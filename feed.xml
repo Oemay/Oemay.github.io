@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://oemay.github.io/feed.xml" rel="self" />
+    <link href="https://oemay.github.io" />
+    <updated>2026-04-04T00:41:22+02:00</updated>
+    <author>
+        <name>test-author</name>
+    </author>
+    <id>https://oemay.github.io</id>
+
+    <entry>
+        <title>Ceci est un post de test pour voir le rendu dans github page.</title>
+        <author>
+            <name>test-author</name>
+        </author>
+        <link href="https://oemay.github.io/ceci-est-un-post-de-test-pour-voir-le-rendu-dans-github-page.html"/>
+        <id>https://oemay.github.io/ceci-est-un-post-de-test-pour-voir-le-rendu-dans-github-page.html</id>
+
+        <updated>2026-04-04T00:41:22+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    GitHub Pages est une solution entièrement gratuite et simple, idéale pour les sites statiques basiques (notamment avec Jekyll) intégrés directement à un dépôt GitHub public, tandis que Netlify offre une plateforme plus puissante avec déploiement continu, fonctions serverless, et une meilleure gestion des frameworks modernes comme Next.js ou&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #169179;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">GitHub Pages</span></strong><span class="svelte-x57wqa"> est une solution entièrement gratuite et simple, idéale pour les sites statiques basiques (notamment avec Jekyll) intégrés directement à un dépôt GitHub public, tandis que </span><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Netlify</span></strong><span class="svelte-x57wqa"> offre une plateforme plus puissante avec déploiement continu, fonctions serverless, et une meilleure gestion des frameworks modernes comme Next.js ou Gatsby.</span></span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="svelte-x57wqa align-center" style="width: 26.5209%;"><strong><em><span class="svelte-x57wqa" style="color: #e03e2d;">Caractéristique</span></em></strong></td>
+<td class="svelte-x57wqa align-center" style="width: 32.2243%;"><strong><em><span class="svelte-x57wqa" style="color: #e03e2d;">GitHub Pages</span></em></strong></td>
+<td class="svelte-x57wqa align-center" style="width: 41.2072%;"><strong><em><span class="svelte-x57wqa" style="color: #e03e2d;">Netlify</span></em></strong></td>
+</tr>
+<tr>
+<td class="svelte-x57wqa" style="width: 26.5209%;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Coût</span></strong></td>
+<td class="svelte-x57wqa" style="width: 32.2243%;"><span class="svelte-x57wqa">Gratuit (public)</span></td>
+<td class="svelte-x57wqa" style="width: 41.2072%;"><span class="svelte-x57wqa">Gratuit (limites) et payant (fonctions pro)</span></td>
+</tr>
+<tr>
+<td class="svelte-x57wqa" style="width: 26.5209%;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Builds par mois</span></strong></td>
+<td class="svelte-x57wqa" style="width: 32.2243%;"><span class="svelte-x57wqa">Illimité (pas de limite de temps)</span></td>
+<td class="svelte-x57wqa" style="width: 41.2072%;"><span class="svelte-x57wqa">300 minutes (plan gratuit)</span></td>
+</tr>
+<tr>
+<td class="svelte-x57wqa" style="width: 26.5209%;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Frameworks</span></strong></td>
+<td class="svelte-x57wqa" style="width: 32.2243%;"><span class="svelte-x57wqa">Jekyll (natif), autres en manuel</span></td>
+<td class="svelte-x57wqa" style="width: 41.2072%;"><span class="svelte-x57wqa">Tous (Next.js, Gatsby, etc.)</span></td>
+</tr>
+<tr>
+<td class="svelte-x57wqa" style="width: 26.5209%;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Fonctions Backend</span></strong></td>
+<td class="svelte-x57wqa" style="width: 32.2243%;"><span class="svelte-x57wqa">Non</span></td>
+<td class="svelte-x57wqa" style="width: 41.2072%;"><span class="svelte-x57wqa">Oui (Serverless, Edge, Background)</span></td>
+</tr>
+<tr>
+<td class="svelte-x57wqa" style="width: 26.5209%;"><strong class="svelte-x57wqa"><span class="svelte-x57wqa">Déploiement</span></strong></td>
+<td class="svelte-x57wqa" style="width: 32.2243%;"><span class="svelte-x57wqa">Push vers une branche</span></td>
+<td class="svelte-x57wqa" style="width: 41.2072%;"><span class="svelte-x57wqa">CI/CD automatique, CLI, Git</span></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+</feed>

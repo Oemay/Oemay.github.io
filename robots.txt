@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://oemay.github.io/sitemap.xml

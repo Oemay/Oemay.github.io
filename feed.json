@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://oemay.github.io",
+    "feed_url": "https://oemay.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test-author"
+    },
+    "items": [
+        {
+            "id": "https://oemay.github.io/ceci-est-un-post-de-test-pour-voir-le-rendu-dans-github-page.html",
+            "url": "https://oemay.github.io/ceci-est-un-post-de-test-pour-voir-le-rendu-dans-github-page.html",
+            "title": "Ceci est un post de test pour voir le rendu dans github page.",
+            "summary": "GitHub Pages est une solution entièrement gratuite et simple, idéale pour les sites statiques basiques (notamment avec Jekyll) intégrés directement à un dépôt GitHub public, tandis que Netlify offre une plateforme plus puissante avec déploiement continu, fonctions serverless, et une meilleure gestion des frameworks modernes comme Next.js ou&hellip;",
+            "content_html": "<p><span style=\"color: #169179;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">GitHub Pages</span></strong><span class=\"svelte-x57wqa\"> est une solution entièrement gratuite et simple, idéale pour les sites statiques basiques (notamment avec Jekyll) intégrés directement à un dépôt GitHub public, tandis que </span><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Netlify</span></strong><span class=\"svelte-x57wqa\"> offre une plateforme plus puissante avec déploiement continu, fonctions serverless, et une meilleure gestion des frameworks modernes comme Next.js ou Gatsby.</span></span></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"svelte-x57wqa align-center\" style=\"width: 26.5209%;\"><strong><em><span class=\"svelte-x57wqa\" style=\"color: #e03e2d;\">Caractéristique</span></em></strong></td>\n<td class=\"svelte-x57wqa align-center\" style=\"width: 32.2243%;\"><strong><em><span class=\"svelte-x57wqa\" style=\"color: #e03e2d;\">GitHub Pages</span></em></strong></td>\n<td class=\"svelte-x57wqa align-center\" style=\"width: 41.2072%;\"><strong><em><span class=\"svelte-x57wqa\" style=\"color: #e03e2d;\">Netlify</span></em></strong></td>\n</tr>\n<tr>\n<td class=\"svelte-x57wqa\" style=\"width: 26.5209%;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Coût</span></strong></td>\n<td class=\"svelte-x57wqa\" style=\"width: 32.2243%;\"><span class=\"svelte-x57wqa\">Gratuit (public)</span></td>\n<td class=\"svelte-x57wqa\" style=\"width: 41.2072%;\"><span class=\"svelte-x57wqa\">Gratuit (limites) et payant (fonctions pro)</span></td>\n</tr>\n<tr>\n<td class=\"svelte-x57wqa\" style=\"width: 26.5209%;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Builds par mois</span></strong></td>\n<td class=\"svelte-x57wqa\" style=\"width: 32.2243%;\"><span class=\"svelte-x57wqa\">Illimité (pas de limite de temps)</span></td>\n<td class=\"svelte-x57wqa\" style=\"width: 41.2072%;\"><span class=\"svelte-x57wqa\">300 minutes (plan gratuit)</span></td>\n</tr>\n<tr>\n<td class=\"svelte-x57wqa\" style=\"width: 26.5209%;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Frameworks</span></strong></td>\n<td class=\"svelte-x57wqa\" style=\"width: 32.2243%;\"><span class=\"svelte-x57wqa\">Jekyll (natif), autres en manuel</span></td>\n<td class=\"svelte-x57wqa\" style=\"width: 41.2072%;\"><span class=\"svelte-x57wqa\">Tous (Next.js, Gatsby, etc.)</span></td>\n</tr>\n<tr>\n<td class=\"svelte-x57wqa\" style=\"width: 26.5209%;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Fonctions Backend</span></strong></td>\n<td class=\"svelte-x57wqa\" style=\"width: 32.2243%;\"><span class=\"svelte-x57wqa\">Non</span></td>\n<td class=\"svelte-x57wqa\" style=\"width: 41.2072%;\"><span class=\"svelte-x57wqa\">Oui (Serverless, Edge, Background)</span></td>\n</tr>\n<tr>\n<td class=\"svelte-x57wqa\" style=\"width: 26.5209%;\"><strong class=\"svelte-x57wqa\"><span class=\"svelte-x57wqa\">Déploiement</span></strong></td>\n<td class=\"svelte-x57wqa\" style=\"width: 32.2243%;\"><span class=\"svelte-x57wqa\">Push vers une branche</span></td>\n<td class=\"svelte-x57wqa\" style=\"width: 41.2072%;\"><span class=\"svelte-x57wqa\">CI/CD automatique, CLI, Git</span></td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "test-author"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-04T00:41:22+02:00",
+            "date_modified": "2026-04-04T00:41:22+02:00"
+        }
+    ]
+}
